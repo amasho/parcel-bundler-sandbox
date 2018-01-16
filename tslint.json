@@ -1,0 +1,17 @@
+{
+  "defaultSeverity": "error",
+  "extends": [
+    "tslint:recommended",
+    "tslint-config-prettier",
+    "tslint-react",
+    "tslint-eslint-rules"
+  ],
+  "rules": {
+    "max-line-length": [true, 120],
+    "object-shorthand-properties-first": false,
+    "radix": false,
+    "ter-arrow-parens": false,
+    "member-access": false,
+    "no-namespace": false
+  }
+}
