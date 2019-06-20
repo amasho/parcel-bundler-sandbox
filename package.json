@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@types/bluebird": "^3.5.19",
-    "@types/react": "^16.0.34",
+    "@types/react": "^16.8.21",
     "@types/react-dom": "^16.0.3",
     "@types/react-redux": "^5.0.14",
     "@types/react-router": "^4.0.20",
